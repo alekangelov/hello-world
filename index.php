@@ -5,9 +5,6 @@
     <title>Hello World! by Alek Angelov</title>
     <meta http-equiv="refresh" content="5">
 
-    <!--Real gangasta ass shit, man
-        I am in love with Jana Neskovic!-->
-
     <style>
 
         * {
